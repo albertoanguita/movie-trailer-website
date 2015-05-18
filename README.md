@@ -4,7 +4,7 @@ This application corresponds to project 1 of the full stack web development nano
 
 The application shows a simple website with some movies. Clicking on a movie opens a youtube trailer.
 
-To execute the application, run the entertainment_center.py file in Python (tested in Pyton 2.7.9). 
+To execute the application: run the entertainment_center.py file in Python (tested in **Pyton 2.7.9**). 
 
 
 ## Files included in the project
