@@ -10,7 +10,7 @@ To execute the application, run the entertainment_center.py file in Python (test
 ## Files included in the project
 
 - media.py: contains the definition of the Movie class, which stores all information related to movies
-- fresh_tomatoes.py: contains the code to generate an html file from a list of movies (given by Udacity)
+- fresh_tomatoes.py: contains the code to generate an html file from a list of movies (given by Udacity, some changes included by me to implement extra features)
 - entertainment_center.py: contains the definition of the six movies appearing in the page, and the code to launch the application
 
 ## Additional features with respect to base requirements
